@@ -1,4 +1,4 @@
-import { ActionManager, ExecuteCodeAction, FreeCamera, MeshBuilder, Ray, Scalar, Scene, Vector3 } from "babylonjs";
+import { FreeCamera, MeshBuilder, Ray, Scene, Vector3 } from "babylonjs";
 import { Mesh } from "babylonjs/Meshes/mesh";
 import { Targets } from "./targets";
 import { Weapon } from "./weapon";

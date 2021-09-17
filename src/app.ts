@@ -4,7 +4,6 @@ import { Map } from "./map";
 import { Player, PlayerInput } from "./player";
 import { Sky } from "./sky";
 import { Targets } from "./targets";
-import { Weapon } from "./weapon";
 
 const canvas = document.getElementById("renderCanvas") as HTMLCanvasElement;
 const engine = new Engine(canvas, true);

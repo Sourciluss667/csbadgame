@@ -1,4 +1,4 @@
-import { Scene, Mesh, Vector3, SceneLoader, ISceneLoaderPlugin, ISceneLoaderPluginAsync, AbstractMesh, DynamicTexture, StandardMaterial, MeshBuilder, Color3 } from "babylonjs";
+import { Scene, Mesh, Vector3, SceneLoader, AbstractMesh, DynamicTexture, StandardMaterial, MeshBuilder } from "babylonjs";
 import { Player } from "./player";
 
 export class Weapon {

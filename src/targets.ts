@@ -1,4 +1,4 @@
-import { Color3, HemisphericLight, Mesh, Scene, StandardMaterial, Vector3 } from "babylonjs";
+import { Color3, Mesh, Scene, StandardMaterial, Vector3 } from "babylonjs";
 import { Map } from "./map";
 
 export class Targets {
